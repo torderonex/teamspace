@@ -4,15 +4,17 @@
 **About:** 
 Full-stack Agile system app with Docs, Chats, Roadmaps and Rewards shop. Built on MIREA winter 2023 hackathon - Vue + TS
 
-<img src="./about/main.png" />
+<img width="1440" alt="reg" src="https://github.com/user-attachments/assets/ed669d35-9cb0-4b76-9f8b-0b685968d660">
 
-<img src="./about/docs.png" />
+<img width="1436" alt="main" src="https://github.com/user-attachments/assets/041480b5-8e53-458e-b129-54608112eb41">
 
-<img src="./about/chats.png" />
+<img width="1424" alt="docs" src="https://github.com/user-attachments/assets/98c70632-39da-44c9-9341-98ac607beda7">
 
-<img src="./about/roadmaps.jpg" />
+<img width="1437" alt="chats" src="https://github.com/user-attachments/assets/6cc6c04c-b2a8-4d17-87a6-c76660f8c948">
 
-<img src="./about/shop.png" />
+![roadmaps](https://github.com/user-attachments/assets/afd8a8e8-f036-45a1-8521-6d325d4efb3f)
+
+<img width="1429" alt="shop" src="https://github.com/user-attachments/assets/4c7474d9-37c0-458a-b65d-184aff78dcd2">
 
 ---
 
